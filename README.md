@@ -1,7 +1,8 @@
 # Ethan Automates
 
 ## About 
-- I am a DevOps Engineer and Full Stack Developer with a passion for automation.
+
+Developer, DevOps Engineer, Automater and Data enjoyer.
 
 ## Skills
 
